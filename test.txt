@@ -1,2 +1,0 @@
-This txt file is for testing the clipboard functionality:
-
