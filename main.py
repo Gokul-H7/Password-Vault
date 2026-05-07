@@ -141,7 +141,7 @@ def main():
                     print("Decryption failed. Potential tampering detected.")
             else:
                 print("Account not found.")
-
+        ## DELETE SERVICE
         elif choice == "delete":
             service = input("Enter service name to delete: ").strip()
 
