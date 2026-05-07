@@ -1,0 +1,16 @@
+{
+    "salt": "HX0cxkvZ9ri7Gr+PI4d8yw==",
+    "entries": {
+        "__canary__": {
+            "username": "system",
+            "nonce": "RWzo0mRxUliSwyIp",
+            "ciphertext": "J9z3YxmBppMKv8xnULOaqlCXhwbVqT3NmMp6HlCWlg=="
+        },
+        "service2": {
+            "username": "test",
+            "nonce": "Tih9Q3vfWWF4CaFI",
+            "ciphertext": "9IxbROyTdJbAuyinbEY1UGMPHLX5TnmkKSNavaEyjtuE"
+        }
+    },
+    "hmac": "10a7ec88e713dc173ae1349bd8456b2e24625a4a80fffbe83af0349401dc8e21"
+}
